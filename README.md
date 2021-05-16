@@ -9,3 +9,7 @@ for the drain to a 2N2222A NPN transistor. I pulled the raw IR from my existing 
 code.  In this configuration, it will stop my Roomba 960 from half way across a large room.
 
 I'm new to Arduino and C* type programming, so please feel free to make any improvements.
+
+The box STL was originally made by matsekberg who can be found on Thingiverse:
+https://www.thingiverse.com/thing:1995963
+https://www.thingiverse.com/matsekberg
